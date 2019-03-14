@@ -113,6 +113,8 @@ body {
   font-weight: 300;
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  flex-flow: row wrap;
 }
 
 .div-1, .div-2, .div-3 {
